@@ -48,8 +48,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-CoreCodev618-00f0ff?style=flat-square&logo=github)](https://github.com/CoreCodev618)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian%20Rabanal-00f0ff?style=flat-square&logo=linkedin)](https://linkedin.com/in/sebastianrabanalfrancia)
-[![Email](https://img.shields.io/badge/Email-sebastianrabanala34%40gmail.com-ff00aa?style=flat-square&logo=gmail)](mailto:sebastianrabanala34@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CoreCodev618-00ff88?style=flat-square)](https://github.com/CoreCodev618)
+[![Email](https://img.shields.io/badge/Email-sebastianrabanal34%40gmail.com-ff00aa?style=flat-square&logo=gmail)](mailto:sebastianrabanal34@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-corecodev618.github.io-00ff88?style=flat-square)](https://corecodev618.github.io)
 
 ---
 
